@@ -1,1 +1,2 @@
-#Enter The Chat IDs & User ID Here, Whom You Wanna Give Access To.One Per Line.
+-1001551530334
+-1001648560585
